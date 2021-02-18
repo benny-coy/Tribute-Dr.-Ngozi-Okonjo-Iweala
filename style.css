@@ -1,5 +1,5 @@
 body{
-  background-color:#ffffff;
+  background-color:#00ff00;
   word-spacing:2px;
   line-height:25px;
 }
@@ -34,7 +34,7 @@ body{
     margin-right:50px;
   }
   footer{
-  color:#ffdacc;
+  color:#ffddcc;
     float:right;
   }
 i{Color:#fdfaff;}
