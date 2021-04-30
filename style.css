@@ -6,7 +6,7 @@ body{
 #main{
   font-family:'lato','verdana';
 }
-@media(min-width:500px){
+@media(min-width:800px){
  #img-div{
     max-width:100%;
     height:auto;
